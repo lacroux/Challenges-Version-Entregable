@@ -59,4 +59,5 @@ Si deseas ver el proyecto en funcionamiento, puedes acceder a través del siguie
 https://lacroux.github.io/Challenges-Version-Entregable/
 
 <img width="336" height="304" alt="image" src="https://github.com/user-attachments/assets/6ee942f3-05ec-43d8-b9ed-ba20cc185852" />
- ![boton 1](imagenes-Challenge/Button-1.png) ![boton 2](imagenes-Challenge/Button-2.png)
+<img width="688" height="67" alt="image" src="https://github.com/user-attachments/assets/e77d0418-6e01-459f-8f1a-7d176828e85b" />
+
